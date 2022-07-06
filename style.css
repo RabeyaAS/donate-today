@@ -159,6 +159,6 @@ footer h3{
 }
 footer{
     text-align: center;
-    background-image: url(https://htmlcolorcodes.com/assets/images/colors/light-green-color-solid-background-1920x1080.png);
+    background-image: linear-gradient(rgb(201, 249, 201), rgb(0, 125, 0));
     padding: 2%;
 }
