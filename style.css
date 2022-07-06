@@ -66,3 +66,28 @@ h1{
     margin-top: 10%;
     margin-bottom: 4%;
 }
+.plan-block{
+    font-size:12px;
+    text-align: left;
+    width: 25%;
+    margin: 5px;
+    background-color: #feeff1;
+    padding: 30px 15px;
+    display: inline-block;
+}
+.plan-block img{
+    height: 40px;
+    width: 40px;
+}
+.image-color{
+    background-color: rgb(228, 248, 254);
+}
+.image-color2{
+    background-color: rgb(251, 251, 212);
+}
+.plan-donate{
+    padding-top: 1%;
+}
+.plan-donate p{
+    margin-bottom: 5%;
+}
