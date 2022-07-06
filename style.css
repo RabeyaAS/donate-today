@@ -91,22 +91,74 @@ p{
     background-color: rgb(251, 251, 212);
 }
 .plan-donate{
-    padding-top: 1%;
+    padding-top: 5%;
 }
 .plan-donate p{
     margin-bottom: 5%;
 }
+
 .lives-depend{
     display: flex;
-    padding-right: 8%;
-    padding-left: 8%;
 }
-.lives-depend img{
-    height: 450px;
-    width: 700px; 
-    padding-left: 10%;
+#image-position{
+    height: 500px;
+    width: 650px; 
+    padding-left: 14%;
+    padding-right: 0%;
+    padding-bottom: 15%;
 }
 .head-para{
-    padding-top: 5%;
+    width: 35%;
+    padding-left: 10%;
+    padding-right: 0%;
+    padding-top: 14px;
+    padding-bottom: 10px;
 }
-
+.updates{
+    background-color: rgb(226, 249, 226);
+    padding: 50px 10px;
+    display: flex;
+}
+.water-appeal{
+    text-align: center;
+    background-color:rgb(223, 247, 255);
+    padding-top: 90px;
+    padding-bottom: 90px;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+.email-background{
+    text-align: left;
+    color: gray;
+    background-color: #e5e3e3;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 5%;
+    padding-right: 50%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 10%;
+}
+.subs-background{
+    color: white;
+    background-color: rgba(82, 206, 99, 0.957);
+    padding: 2% 5%;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-right: 10%;
+}
+footer h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(209, 6, 6);
+    font-size: 26px;
+    font-style: italic;
+}
+footer{
+    text-align: center;
+    background-image: url(https://htmlcolorcodes.com/assets/images/colors/light-green-color-solid-background-1920x1080.png);
+    padding: 2%;
+}
